@@ -7,9 +7,9 @@ pour le Développement de l'Informatique Libre).
 
 - Python (Python3 normalement installé à l'installation sur toute machine Linux; il n'y a donc rien à faire en principe).
 
-- matplotlib (package Python) (seulement pour le notebook "graphiques.ipynb)
+- matplotlib (package Python) (seulement pour le notebook "graphiques.ipynb")
 
-- numpy (package Python) (seulement pour le notebook "graphiques.ipynb).
+- numpy (package Python) (seulement pour le notebook "graphiques.ipynb").
 
 Pour rejouer les "slides" il vous faut installer :
 1. jupyter (existe comme package dans la plupart des distributions linux).
