@@ -24,7 +24,7 @@ Pour executer les programmes il suffit de lancer "jupyter notebook" en ligne de 
  3. graphiques.ipynb :     Exemples de programmes graphiques
  4. NotesFinales.ipynb :   comme son nom l'indique
 
-Le notebook "sage.ipynb" nécessite que _sagemath_ soit installé; dans ce cas, lancez 
+Le notebook "sage.ipynb" nécessite que _sagemath_ soit installé; dans ce cas, lancez :
 sage -n jupyter
 pour l'exécuter.
 
