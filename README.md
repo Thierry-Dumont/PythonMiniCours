@@ -9,7 +9,11 @@ pour le Développement de l'Informatique Libre).
 
 - matplotlib (package Python) (seulement pour le notebook "graphiques.ipynb")
 
-- numpy (package Python) (seulement pour le notebook "graphiques.ipynb").
+- numpy (package Python) (seulement pour les notebooks "graphiques.ipynb" et Performances.ipynb).
+
+- numba (package Python) pour "Performances.ipynb".
+
+_En bref, pour Python1.ipynb, Python2.ipynb et NotesFinales.ipynb, vous ne devrez rien avoir à installer._
 
 Pour rejouer les "slides" il vous faut installer :
 1. jupyter (existe comme package dans la plupart des distributions linux).
@@ -22,6 +26,7 @@ Pour executer les programmes il suffit de lancer "jupyter notebook" en ligne de 
  1. Python1.ipynb : Intruction.
  2. Python2.ipynb : Introduction, suite.
  3. graphiques.ipynb :     Exemples de programmes graphiques
+ 4. Performances.ipynb : Accélerer Python avec numba.
  4. NotesFinales.ipynb :   comme son nom l'indique
 
 Le notebook "sage.ipynb" nécessite que _sagemath_ soit installé; dans ce cas, lancez :
